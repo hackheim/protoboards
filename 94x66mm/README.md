@@ -1,0 +1,8 @@
+# 94 x 66 mm Prototype board
+
+1mm trace width.
+
+Hole spacing: 88.9 x 60.96 - Board size: 93.98 x 66.04.
+
+![preview](./preview.png)
+
