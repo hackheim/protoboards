@@ -1,4 +1,4 @@
-# 94 x 66 mm Prototype board
+# 94 x 61 mm Prototype board
 
 1mm trace width. M3 mounting holes.
 
